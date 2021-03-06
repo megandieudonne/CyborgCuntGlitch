@@ -10,5 +10,5 @@
 
 <h3>Credit</h3>
 <p>This repository is always in progress, and fully accessible.</p>
-<p>Facilitated by Megan Dieudonné. For inquiries please <a href="mailto:megan.dieudonne@gmail.com">Email</a></p>
+<p>Facilitated by Megan Dieudonné | Contact: <a href="mailto:megan.dieudonne@gmail.com">Email</a></p>
 
