@@ -7,8 +7,8 @@
 <h2>About</h2>
 <p>This is an effort to build: A continuous practice of 'reflective thinking'; A library of critical thinking and reading written by women*, LGBT*, and POC*. Motivated by the current research project: <i>Cyborg Cunt Glitch</i> which currently takes shape as a MA thesis—all in all—another contribution to our* common language that's taking place on and away from our* screens.</p>
 
-<p>This text is about the body. The body as it sits in front of the screen to when it slips beyond. The body that lurks in the in-betweenness of physical and non-physical space and the tension this brings.*
-  -<i>Cyborg Cunt Glitch</i>
+>"This text is about the body. The body as it sits in front of the screen to when it slips beyond. The body that lurks in the in-betweenness of physical and non-physical space and the tension this brings."
+<p>Cyborg, Cunt, Glitch</p>
 
 <p>Most folders are organised alphabetically by First Name, Last Name and files are named only by Title. This repository is always in progress, and fully accessible.</p>
 
