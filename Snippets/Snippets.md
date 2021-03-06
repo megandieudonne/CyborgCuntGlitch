@@ -4,4 +4,6 @@ p. 4
 
 The body, neither here nor there. It's about the "tension of holding incompatible things together because both or all are necessary and true" (Haraway, 1984). It's (imprecisely) here that we find ourselves in the in-betweeness—or at the very least—in the awareness of it. <i>Unlisted</i>
 
+>Each section is titled by what it sets out to describe: a creature of fiction (Cyborg), a virus of the new world disorder (Cunt), a failure to function (Glitch)—a body of sorts, of whole and parts.
 
+p. 4
