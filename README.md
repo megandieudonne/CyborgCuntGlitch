@@ -9,7 +9,8 @@
 
 <p>Most folders are organised alphabetically by First Name, Last Name and files are named only by Title.</p>
 
-<h2>Credit</h2>
 <p>This repository is always in progress, and fully accessible.</p>
+
+<h2>Credit</h2>
 <p>Facilitated by Megan Dieudonné | Contact: <a href="mailto:megan.dieudonne@gmail.com">Email</a></p>
 <h4>Megan Dieudonné (b. 1991) is a designer from Aotearoa, New Zealand, currently based in Hamburg. She works at the intersection of graphic design and digital culture. After studies in Wellington and Leipzig, she is currently a member of the <a href="http://www.digitale-grafik.com/">Digital Graphics</a> class at the <a href="https://www.hfbk-hamburg.de/en/">University of Fine Arts Hamburg (HFBK)</a>.</h4>
