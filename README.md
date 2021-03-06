@@ -14,4 +14,4 @@
 <h3>Credit</h3>
 <p>This repository is always in progress, and fully accessible.</p>
 <p>Facilitated by Megan Dieudonné | Contact: <a href="mailto:megan.dieudonne@gmail.com">Email</a></p>
-
+H6>Megan Dieudonné (b. 1991) is a designer from Aotearoa, New Zealand, currently based in Hamburg. She works at the intersection of graphic design and digital culture. After studies in Wellington and Leipzig, she is currently a member of the Digital Graphics class at the University of Fine Arts Hamburg (HFBK).</h6>
