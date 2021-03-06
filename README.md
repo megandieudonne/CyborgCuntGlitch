@@ -1,7 +1,7 @@
 <h1>The New World Disorder</h1>
 <h2>Critical Thinking of Technology: A Library and Resource</h2>
 
-<p>An effort to build: A continuous practice of 'reflective thinking'; A library of critical thinking and reading about technology written by women*, LGBT*, and POC*.</p>
+<p>An effort to build: A continuous practice of 'reflective thinking'; A library of critical thinking and reading written by women*, LGBT*, and POC*.</p>
 
 >"All technology reflects the society that produces it, including its power structures and prejudice. This is true all the way down to the level of the algorithm. The outmoded myth, however, that equates the digital and the radical continues to prove counterfeit." 
 <p>Legacy Russell, Glitch Feminism, 2020</p>
