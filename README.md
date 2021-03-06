@@ -6,6 +6,6 @@
 <p>This library was motivated by the current research project: <i>Cyborg Cunt Glitch</i> which currently takes shape as a MA Thesis—all in all—another contribution to our* common langauge on and away from our* screens.</p>
 
 <h3>Credit</h3>
-<p>This repository is always in progress, and fully accessible. Feel welcome to contribute</p>
+<p>This repository is always in progress, and fully accessible. Feel welcome to contribute!</p>
 <p>Facilitated by Megan Dieudonné</p>
 
