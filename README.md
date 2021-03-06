@@ -10,7 +10,7 @@
 <h2>About</h2>
 <p>An effort to (re-)build a continuous practice of 'reflective thinking'; to look outside the same-normative narratives of technology told to us; by the same figures and systems. Motivated by the research project <i>Cyborg Cunt Glitch</i>, currently taking shape as a MA thesis that's — all told together — as another contribution to our* common language on and away from our* screens.</p>
 
-<p>To keep things tidy for your Downloads folder, folders are organised alphabetically by First Name & Last Name. File types are mostly: .pdf, .jpg, .png and are named by Title, Year.</p>
+<p>To keep things tidy for your Downloads folder, folders are organised alphabetically by First Name & Last Name. File types are mostly: .pdf, .jpg, .png and are named by Title & Year.</p>
 
 <p>This repository is always in progress, and fully accessible.</p>
 
