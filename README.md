@@ -6,7 +6,7 @@
 
 <p>This library is motivated by the current research project: <i>Cyborg Cunt Glitch</i> which currently takes shape as a MA thesis—all in all—another contribution to our* common language that's taking place on and away from our* screens.</p>
 
-<p>"All technology reflects the society that produces it, including its power structures and prejudice. This is true all the way down to the level of the algorithm. The outmoded myth, however, that equates the digital and the radical continues to prove counterfeit." Legacy Russell | Glitch Refuses</p>
+<p>>"All technology reflects the society that produces it, including its power structures and prejudice. This is true all the way down to the level of the algorithm. The outmoded myth, however, that equates the digital and the radical continues to prove counterfeit." Legacy Russell | Glitch Refuses</p>
 
 <p>Folders are organised alphabetically by Name and files are named by Title.</p>
 
