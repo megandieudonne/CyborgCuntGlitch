@@ -2,6 +2,6 @@
 
 p. 4
 
-The body, neither here nor there. It's about the "tension of holding incompatible things together because both or all are necessary and true" (Haraway, 1984). It's here we find the in-betweeness, or at the very least, a dim awareness. <i>Unlisted</i>
+The body, neither here nor there. It's about the "tension of holding incompatible things together because both or all are necessary and true" (Haraway, 1984). It's (imprecisely) here that we find ourselves in the in-betweeness, or at the very least, in the awareness of it. <i>Unlisted</i>
 
 
