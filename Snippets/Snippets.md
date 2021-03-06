@@ -16,7 +16,8 @@ A Speech act is something expressed by an individual that not only presents info
 >
 Radhika Gajjala 
 
->fuck*
+>fuck
+>
 >the whole muthafuking thing
 >
 Etheridge Knight, "Feeling Fucked Up", 1986 (Found at the beginning of Glitch Feminism)
