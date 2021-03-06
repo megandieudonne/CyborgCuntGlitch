@@ -6,9 +6,9 @@
 
 <p>This library is motivated by the current research project: <i>Cyborg Cunt Glitch</i> which currently takes shape as a MA Thesis—all in all—another contribution to our* common language that's taking place on and away from our* screens.</p>
 
-<p>Folders are organised by Name and files are named by Title</p>
+<p>Folders are organised alphabetically by Name and files are named by Title.</p>
 
 <h3>Credit</h3>
 <p>This repository is always in progress, and fully accessible.</p>
-<p>Facilitated by Megan Dieudonné</p>
+<p>Facilitated by Megan Dieudonné. For inquiries please <a href="mailto:megan.dieudonne@gmail.com">Email</a></p>
 
