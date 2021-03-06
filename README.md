@@ -4,6 +4,9 @@
 >"All technology reflects the society that produces it, including its power structures and prejudice. This is true all the way down to the level of the algorithm. The outmoded myth, however, that equates the digital and the radical continues to prove counterfeit." 
 <p>Legacy Russell, Glitch Feminism, 2020</p>
 
+>"Our best machines are made of sunshine" 
+<p>Donna Haraway, A Cyborg Manifesto: Science, Technology, and socialist-Feminism in the Late 20th Century</p>
+
 <h2>About</h2>
 <p>This is an effort to (re-)build: A continuous practice of 'reflective thinking'; A library of critical thinking and reading written by women*, LGBT*, and POC*. Motivated by the current research project: <i>Cyborg Cunt Glitch</i> which currently takes shape as a MA thesis—all in all—another contribution to our* common language that's taking place on and away from our* screens.</p>
 
