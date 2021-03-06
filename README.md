@@ -5,8 +5,7 @@
 <p>Legacy Russell, Glitch Feminism, 2020</p>
 
 <h2>About</h2>
-<p>An effort to build: A continuous practice of 'reflective thinking'; A library of critical thinking and reading written by women*, LGBT*, and POC*.</p>
-<p>This is motivated by the current research project: <i>Cyborg Cunt Glitch</i> which currently takes shape as a MA thesis—all in all—another contribution to our* common language that's taking place on and away from our* screens.</p>
+<p>An effort to build: A continuous practice of 'reflective thinking'; A library of critical thinking and reading written by women*, LGBT*, and POC*. This is motivated by the current research project: <i>Cyborg Cunt Glitch</i> which currently takes shape as a MA thesis—all in all—another contribution to our* common language that's taking place on and away from our* screens.</p>
 
 <p>Most folders are organised alphabetically by Name and files are named only by Title.</p>
 
