@@ -8,8 +8,8 @@ The body, neither here nor there. It's about the "tension of holding incompatibl
 
 p. 4
 
-The body online is constructed through words and image; textual and graphical; you become a ‘body online’ through a speech act. A signifier for the use of the Manifesto genre (Speech Act)
+The body online is constructed through words and image; textual and graphical; you become a ‘body online’ through a speech act. A signifier for the use of the Manifesto genre (Unlisted)
 
 >"Race, gender. age, sexuality. geographical location and other signifiers of “Otherness” interact with this class-based construction of “whiteness” to produce complex hierarchies and contradictions within the Digital Economy. While we can continue to call this “whiteness" because the status quo is still based upon a cultural hegemony that privileges a “white" race, it might be more appropriate to refer to this upwardly mobile subject as a "privileged hybrid transnational subject” 
 >
-Radhika Gajjala
+Radhika Gajjala (Checked)
