@@ -10,8 +10,10 @@
 <h2>About</h2>
 <p>This is an effort to (re-)build: A continuous practice of 'reflective thinking'; A library of critical thinking and reading written by women*, LGBT*, and POC*. Motivated by the current research project: <i>Cyborg Cunt Glitch</i> which currently takes shape as a MA thesis—all in all—another contribution to our* common language that's currently taking place on and away from our* screens.</p>
 
-<p>Most folders are organised alphabetically by First Name, Last Name. Files (.pdf, .jpg, .png) are named only by Title. This repository is always in progress, and fully accessible.</p>
+<p>To keep things neat for your Downloads folder, most folders are organised alphabetically by First Name, Last Name. Files (.pdf, .jpg, .png) are named only by Title. This repository is always in progress, and fully accessible.</p>
 
 <h2>Credit</h2>
 <p>Facilitated by Megan Dieudonné | Contact: <a href="mailto:megan.dieudonne@gmail.com">Email</a></p>
 <h4>Megan Dieudonné (b. 1991) is a designer from Aotearoa, New Zealand, currently based in Hamburg. She works at the intersection of graphic design and digital culture. After studies in Wellington and Leipzig, she is currently a member of the <a href="http://www.digitale-grafik.com/">Digital Graphics</a> class at the <a href="https://www.hfbk-hamburg.de/en/">University of Fine Arts Hamburg (HFBK)</a>.</h4>
+
+![Helke Sander](https://user-images.githubusercontent.com/45388820/110209873-1e609000-7e8f-11eb-9468-f8ef27402720.png)
