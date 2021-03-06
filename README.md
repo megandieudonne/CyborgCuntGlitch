@@ -4,7 +4,7 @@
 >"All technology reflects the society that produces it, including its power structures and prejudice. This is true all the way down to the level of the algorithm. The outmoded myth, however, that equates the digital and the radical continues to prove counterfeit." 
 <p>Legacy Russell, Glitch Feminism, 2020</p>
 
->"Our best machines are made of sunshine" 
+>"Our best machines are made of sunshine." 
 <p>Donna Haraway, A Cyborg Manifesto: Science, Technology, and socialist-Feminism in the Late 20th Century, 1984</p>
 
 <h2>About</h2>
