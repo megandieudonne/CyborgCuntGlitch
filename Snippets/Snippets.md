@@ -15,3 +15,8 @@ A Speech act is something expressed by an individual that not only presents info
 >"Race, gender. age, sexuality. geographical location and other signifiers of “Otherness” interact with this class-based construction of “whiteness” to produce complex hierarchies and contradictions within the Digital Economy. While we can continue to call this “whiteness" because the status quo is still based upon a cultural hegemony that privileges a “white" race, it might be more appropriate to refer to this upwardly mobile subject as a "privileged hybrid transnational subject” 
 >
 Radhika Gajjala 
+
+>fuck
+>the whole muthafuking thing
+>
+Etheridge Knight, "Feeling Fucked Up", 1986 (Found at the beginning of Glitch Feminism)
