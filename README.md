@@ -1,5 +1,6 @@
 <h1>The New World Disorder</h1>
 <h2>Critical Thinking of Technology: A Library and Resource</h2>
+<p>A library of critical thinking and reading written by women*, LGBT*, and POC*.</p>
 
 >"All technology reflects the society that produces it, including its power structures and prejudice. This is true all the way down to the level of the algorithm. The outmoded myth, however, that equates the digital and the radical continues to prove counterfeit." 
 <p>Legacy Russell, Glitch Feminism, 2020</p>
@@ -8,7 +9,7 @@
 <p>Donna Haraway, A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late 20th Century, 1984</p>
 
 <h2>About</h2>
-<p>This is an effort to (re-)build a continuous practice of 'reflective thinking'; to look outside the same-normative narratives of technology told to us; by which figures and which systems. A library of critical thinking and reading written by women*, LGBT*, and POC*.</p>
+<p>This is an effort to (re-)build a continuous practice of 'reflective thinking'; to look outside the same-normative narratives of technology told to us; by the same figures and systems.</p>
 
 <p>Motivated by the current research project: <i>Cyborg Cunt Glitch</i> which currently takes shape as a MA thesis—all in all—another contribution to our* common language that's currently taking place on and away from our* screens.</p>
 
