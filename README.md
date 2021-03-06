@@ -4,9 +4,9 @@
 <h3>About</h3>
 <p>An effort to build: A continuous practice of 'reflective thinking'; A library of critical thinking and reading about technology written by women*, LGBT*, and POC*.</p>
 
-<p>This library was motivated by the current research project: <i>Cyborg Cunt Glitch</i> which currently takes shape as a MA Thesis—all in all—another contribution to our* common language that's taking place on and away from our* screens.</p>
+<p>This library is motivated by the current research project: <i>Cyborg Cunt Glitch</i> which currently takes shape as a MA Thesis—all in all—another contribution to our* common language that's taking place on and away from our* screens.</p>
 
 <h3>Credit</h3>
-<p>This repository is always in progress, and fully accessible. Feel welcome to contribute!</p>
+<p>This repository is always in progress, and fully accessible.</p>
 <p>Facilitated by Megan Dieudonné</p>
 
