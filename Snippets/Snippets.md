@@ -12,6 +12,8 @@ The body online is constructed through words and image; textual and graphical; y
 
 A Speech act is something expressed by an individual that not only presents information but performs an action as well. The "modern manifesto" was used to challenge authority, to establish speaking positions for various minorities seeking to be heard: “questions of gender are woven into the fabric of this genre.”
 
+p. 17
+
 >"Race, gender. age, sexuality. geographical location and other signifiers of “Otherness” interact with this class-based construction of “whiteness” to produce complex hierarchies and contradictions within the Digital Economy. While we can continue to call this “whiteness" because the status quo is still based upon a cultural hegemony that privileges a “white" race, it might be more appropriate to refer to this upwardly mobile subject as a "privileged hybrid transnational subject” 
 >
 Radhika Gajjala 
