@@ -4,4 +4,4 @@
 
 <p>This library was motivated by the current research project: <i>Cyborg Cunt Glitch</i> which currently takes shape as a MA Thesis, all in all, another contribution to our* common langauge.</p>
 
-
+<p>This repository is always in progress</p>
