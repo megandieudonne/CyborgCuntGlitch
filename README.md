@@ -12,7 +12,7 @@
 
 <p><i>Cyborg Cunt Glitch</i> explores how the body is constructed and deconstructed online. (MFA Thesis, supervised by Prof. Nora Sternfeld).</p>
 
-<p>To keep things tidy for your Downloads folder, folders are organised alphabetically by First Name, Last Name. File types are mostly: .pdf, .jpg, .png and are named by Title, Year.</p>
+<p>To keep things tidy for your Downloads folder, folders are organised alphabetically by First Name, Last Name. File types are mostly: .pdf, .jpg, .png and are named by Title, (Year).</p>
 
 <p>This repository is always in progress and fully accessible.</p>
 
