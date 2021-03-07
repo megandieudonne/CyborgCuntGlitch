@@ -1,4 +1,4 @@
-<h1>The New World Disorder: A library and Resource</h1>
+<h1>A library and Resource</h1>
 <h2>Critical Thinking and Reading Written by Women*, LGBT*, and POC*.</h2>
 
 >"All technology reflects the society that produces it, including its power structures and prejudice. This is true all the way down to the level of the algorithm. The outmoded myth, however, that equates the digital and the radical continues to prove counterfeit." 
