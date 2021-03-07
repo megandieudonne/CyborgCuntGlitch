@@ -10,7 +10,7 @@
 <h2>About</h2>
 <p>This is an effort to (re-)build a practice of 'reflective thinking'. To not settle for the current story of technology and how it's told; by the same figures and systems but through the vital narratives that have been made less visible. Partly motivated by the research project <i>Cyborg Cunt Glitch</i> — all told together & all part of — the common language spoken on and away from our* screens.</p>
 
-<p><i>Cyborg Cunt Glitch</i> explores how the body is constructed and deconstructed online. (MFA Thesis, supervised by Prof. Nora Sternfeld).</p>
+<p><i>Cyborg Cunt Glitch</i> explores how the body is constructed and deconstructed online. (MFA Thesis, supervised by Prof. Nora Sternfeld, Prof. Christoph Knoth).</p>
 
 <p>To keep things tidy for your Downloads folder, folders are organised alphabetically by First Name, Last Name. File types are mostly: .pdf, .jpg, .png and are named by Title, Year.</p>
 
