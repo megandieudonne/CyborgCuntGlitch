@@ -14,7 +14,7 @@
 
 <p>To keep things tidy for your Downloads folder, folders are organised alphabetically by First Name, Last Name. File types are mostly: .pdf, .jpg, .png and are named by Title, Year.</p>
 
-<p>This repository is always in progress, and fully accessible.</p>
+<p>This repository is always in progress and fully accessible.</p>
 
 <h2>Credit</h2>
 <p>Facilitated by Megan Dieudonné | Contact: <a href="mailto:megan.dieudonne@gmail.com">Email</a></p>
