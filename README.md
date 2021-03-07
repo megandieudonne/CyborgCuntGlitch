@@ -8,7 +8,7 @@
 <p>Donna Haraway, A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late 20th Century, 1984</p>
 
 <h2>About</h2>
-<p>This is an effort to (re-)build a practice of 'reflective thinking'. To not settle for the current story of technolog and how it's told to us; by the same figures and sytems. Partly motivated by the research project <i>Cyborg Cunt Glitch</i>, currently taking shape as a MA thesis — all told together & all part of  — the common language spoken on and away from our* screens.</p>
+<p>This is an effort to (re-)build a practice of 'reflective thinking'. To not settle for the current story of technology and how it's told to us; by the same figures and sytems. Partly motivated by the research project <i>Cyborg Cunt Glitch</i>, currently taking shape as a MA thesis — all told together & all part of  — the common language spoken on and away from our* screens.</p>
 
 <p>To keep things tidy for your Downloads folder, folders are organised alphabetically by First Name, Last Name. File types are mostly: .pdf, .jpg, .png and are named by Title, Year.</p>
 
