@@ -8,7 +8,7 @@
 <p>Donna Haraway, A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late 20th Century, 1984</p>
 
 <h2>About</h2>
-<p>This is an effort to (re-)build a practice of 'reflective thinking' — To not find comfort in how the story of technology is told; by the same figures and systems, but through the vital narratives made less visible. Against the backdrop of <i>Cyborg Cunt Glitch</i> — all told together & part of — the common language spoken on and away from our* screens.</p>
+<p>This is an effort to (re-)build a practice of 'reflective thinking' — To not find comfort in how the story of technology is told; by the same figures and systems, but through the vital narratives that have been made less visible. Against the backdrop of <i>Cyborg Cunt Glitch</i> — all told together & part of — the common language spoken on and away from our* screens.</p>
 
 <p><i>Cyborg Cunt Glitch</i> explores how the body is constructed and deconstructed online. (MFA Thesis, supervised by Prof. Nora Sternfeld).</p>
 
