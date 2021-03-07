@@ -21,4 +21,4 @@ Radhika Gajjala
 >fuck  
 >the whole muthafuking thing
 >
-Etheridge Knight, "Feeling Fucked Up", 1986 (*Also at beginning of Glitch Feminism)
+Etheridge Knight, "Feeling Fucked Up", 1986
