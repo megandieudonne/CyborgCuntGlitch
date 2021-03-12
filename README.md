@@ -13,7 +13,7 @@
 <h2>About</h2>
 <p>This is an effort to (re-)build a practice of 'reflective thinking'; to not dwell on how the story of technology is told to us; by the same figures and systems but through the vital narratives made less visible; an entry point into and part of a common language currently spoken on and away from our* screens.</p>
  
-<p><i>Cyborg Cunt Glitch</i> starts a conversation with three "oppositional feminist-narrative figures" to confront and find an alternative to the current binary, male-dominant, white-dominant, capitalist system. Through refusal, new visions and spaces are made and the line between organism and technology no longer exists. (MFA Thesis, supervised by Prof. Nora Sternfeld, Prof. Christoph Knoth, 2021).</p>
+<p>A close resource and guide to <i>Cyborg Cunt Glitch</i>: MFA Thesis, supervised by Prof. Nora Sternfeld, Prof. Christoph Knoth, 2021.</p>
 
 <p>To keep things tidy for your Downloads folder, folders are organised alphabetically by First Name, Last Name. File types are mostly: .pdf, .jpg, .png and are named by Title, (Year).</p>
 
