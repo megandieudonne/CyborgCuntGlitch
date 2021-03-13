@@ -11,9 +11,7 @@
 <p>Donna Haraway, A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late 20th Century, 1984</p>
 
 <h2>About</h2>
-<p>This is an effort to (re-)build a practice of 'reflective thinking'; to not dwell on how the story of technology is told to us; by the same figures and systems but through the vital narratives made less visible; an entry point into and part of a common language currently spoken on and away from our* screens.</p>
- 
-<p>A resource of <i>Cyborg Cunt Glitch</i> | MFA Thesis, supervised by Prof. Nora Sternfeld, Prof. Christoph Knoth, 2021.</p>
+<p>This is an effort to (re-)build a practice of 'reflective thinking'; to not dwell on how the story of technology is told to us; by the same figures and systems but through the vital narratives made less visible. A resource of <i>Cyborg Cunt Glitch</i>, an entry point and part of a common language currently spoken on and away from our screens | MFA Thesis, supervised by Prof. Nora Sternfeld, Prof. Christoph Knoth, 2021.</p>
 
 <p>To keep things tidy for your Downloads folder, folders are organised alphabetically by First Name, Last Name. File types are mostly: .pdf, .jpg, .png and are named by Title, (Year).</p>
 
