@@ -1,5 +1,5 @@
 <h1>Cyborg Cunt Glitch: A library and Resource</h1>
-<h2>Critical Thinking of Technology by Women, LGBT, and POC.</h2>
+<h2>Critical Thinking of Technology by Women, LGBTQ, and POC.</h2>
 
 >"All technology reflects the society that produces it, including its power structures and prejudice. This is true all the way down to the level of the algorithm. The outmoded myth, however, that equates the digital and the radical continues to prove counterfeit." 
 <p>Legacy Russell, Glitch Feminism, 2020</p>
