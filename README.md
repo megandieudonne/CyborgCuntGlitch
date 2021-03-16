@@ -15,7 +15,7 @@
 
 <i>Cyborg Cunt Glitch</i> | MFA Thesis, supervised by Prof. Nora Sternfeld, Prof. Christoph Knoth, 2021.
 
-Keywords: Cyberspace, Internet, Posthuman, Posthumanism, Transhumanism, Biotechnology (Cyber)feminism, Manifesto, Cyborg, Biofeminism, Cunt, Glitch 
+Keywords: Cyberspace, Internet, Posthuman, Posthumanism, Transhumanism, Biotechnology, (Cyber)feminism, Manifesto, Cyborg, Biofeminism, Cunt, Glitch 
 
 <p>To keep things tidy for your Downloads folder, folders are organised alphabetically by First Name, Last Name. File types are mostly: .pdf, .jpg, .png and are named by Title, (Year).</p>
 
