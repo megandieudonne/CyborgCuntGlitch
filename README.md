@@ -13,7 +13,7 @@
 <h2>About</h2>
 <p>This is an effort to (re-)build a practice of 'reflective thinking'; to not stay with how the story of technology is told to us; by the same figures and systems but through the vital narratives made less visible. A resource of <i>Cyborg "Cunt" Glitch</i>, an entry point and part of a common language currently spoken on and away from our screens.</p>
 
-<i>Cyborg Cunt Glitch</i> | MFA Thesis, supervised by Prof. Nora Sternfeld, Prof. Christoph Knoth, 2021.
+<i>Cyborg "Cunt" Glitch</i> | MFA Thesis, supervised by Prof. Nora Sternfeld, Prof. Christoph Knoth, 2021.
 
 Keywords:  
 Cyberspace, Internet, Body, Posthuman, Posthumanism, Transhumanism, Biotechnology, Biofeminism, (Cyber)feminism, Manifesto, Cyborg, "Cunt", Glitch. 
