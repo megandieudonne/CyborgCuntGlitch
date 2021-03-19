@@ -18,6 +18,9 @@
 Keywords:  
 Cyberspace, Internet, Body, Posthuman, Posthumanism, Transhumanism, Biotechnology, Biofeminism, (Cyber)feminism, Manifesto, Cyborg, "Cunt", Glitch. 
 
+<h2>Spotlight</h2
+ * A brilliant article by [Anab Jain](https://superflux.in/index.php/team/anab/#) on futurist and posthumanist interpretations, titled [<i>Calling for a More-Than-Human Politics</i>](https://medium.com/@anabjain/calling-for-a-more-than-human-politics-f558b57983e6). Published by Medium on Feb 19 2020. Anab Jain is co-founder and director of Superflux, a design practice, responsive to the challenges and opportunities of the twenty-first century.
+
 <h2>Care</h2>
 <p>To keep things tidy for your Downloads folder, folders are organised alphabetically by First Name, Last Name. File types are mostly: .md, .pdf, .jpg, .png and are named by Title, (Year).</p>
 
