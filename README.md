@@ -19,7 +19,7 @@ Keywords:
 Cyberspace, Internet, Body, Posthuman, Posthumanism, Transhumanism, Biotechnology, Biofeminism, (Cyber)feminism, Manifesto, Cyborg, "Cunt", Glitch. 
 
 <h2>Care</h2>
-<p>To keep things tidy for your Downloads folder, folders are organised alphabetically by First Name, Last Name. File types are mostly: .pdf, .jpg, .png and are named by Title, (Year).</p>
+<p>To keep things tidy for your Downloads folder, folders are organised alphabetically by First Name, Last Name. File types are mostly: .md, .pdf, .jpg, .png and are named by Title, (Year).</p>
 
 <p>Some folders contain markdown files named "Link List". This is a directory of hyperlinks that navigate to another location, usually relating to the primary folder.</p>
 
