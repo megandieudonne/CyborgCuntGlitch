@@ -21,7 +21,7 @@ Cyberspace, Internet, Body, Posthuman, Posthumanism, Transhumanism, Biotechnolog
 <h2>Care</h2>
 <p>To keep things tidy for your Downloads folder, folders are organised alphabetically by First Name, Last Name. File types are mostly: .pdf, .jpg, .png and are named by Title, (Year).</p>
 
-<p>Some folders contain markdown files called "Link Lists"</p>
+<p>Some folders contain markdown files called "Link Lists", a directory of hyperlinks that take you out into the WWW.</p>
 
 <p>This repository is always in progress and fully accessible.</p>
 
