@@ -16,7 +16,7 @@
 <i>Cyborg "Cunt" Glitch</i> | MFA Thesis, supervised by Prof. Nora Sternfeld, Prof. Christoph Knoth, 2021.
 
 Keywords:  
-Cyberspace, Internet, Body, Posthuman, Posthumanism, Transhumanism, Biotechnology, Biofeminism, (Cyber)feminism, Manifesto, Cyborg, "Cunt", Glitch. 
+Cyberspace, Internet, Body, Posthuman, Post- Transhumanism, Biotechnology, Biofeminism, (Cyber)feminism, Manifesto, Cyborg, "Cunt", Glitch. 
 
 <h2>Care</h2>
 <p>To keep things tidy for your Downloads folder, folders are organised alphabetically by First Name, Last Name. File types are mostly: .md, .pdf, .jpg, .png and are named by Title, (Year).</p>
