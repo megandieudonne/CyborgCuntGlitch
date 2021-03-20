@@ -2,5 +2,5 @@
 
 * A brilliant article by [Anab Jain](https://superflux.in/index.php/team/anab/#) on futurist and posthumanist interpretations, titled [<i>Calling for a More-Than-Human Politics</i>](https://medium.com/@anabjain/calling-for-a-more-than-human-politics-f558b57983e6). Published by Medium on Feb 19 2020. Anab Jain is co-founder and director of Superflux, a design practice, responsive to the challenges and opportunities of the twenty-first century.
 * [The Eudemonic Project](https://www.eudemonicproject.org/)
-* [<i>Collaborators in Creation</i>](https://aeon.co/essays/how-social-and-physical-technologies-collaborate-to-create) is an essay on how social and physical technologies collaborate to create.
+* Co-written by Fotini Markopoulou [<i>Collaborators in Creation</i>](https://aeon.co/essays/how-social-and-physical-technologies-collaborate-to-create) is an essay on how social and physical technologies collaborate to create. Fotini Markopoulou is a quantum gravity physicist and industrial designer and CEO at [Empathic Technologies](https://www.empathictechnologies.com/), a London-based tech company that brings together embodied cognition science and haptics to create our emotional second skin. The essay was published on 11 February 2020.
 
