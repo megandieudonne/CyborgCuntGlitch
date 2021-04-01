@@ -11,7 +11,7 @@
 <p>Donna Haraway, A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late 20th Century, 1984</p>
 
 <h2>About</h2>
-<p>This is an effort to contribute to the technological facet of feminist queer theory, beside a practice of reflective thinking; to uncenter the story of technology told to us by the same figures and systems but through the vital narratives made less visible.
+<p>This is an effort to contribute to the technological facet of feminist queer theory, beside a practice of reflective thinking; to uncenter the story of technology—told to us—by the same figures and systems but through the vital narratives made less visible.
 
 <i>Cyborg "Cunt" Glitch</i> | A heteroglossia of three oppositional feminist-narrative resources | MFA Thesis, supervised by Prof. Nora Sternfeld, Prof. Christoph Knoth, 2021.
 
