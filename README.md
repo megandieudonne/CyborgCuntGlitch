@@ -11,10 +11,9 @@
 <p>Donna Haraway, A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late 20th Century, 1984</p>
 
 <h2>About</h2>
-<p>This is an effort to (re-)build a practice of reflective thinking; to not stay with how the story of technology is told to us; by the same figures and systems but through the vital narratives made less visible. A resource of <i>Cyborg "Cunt" Glitch</i>, an entry point and part of a common language currently spoken on and away from our screens.</p>
+<p>This is an effort to contribute to the technological facet of feminist queer theory, beside a practice of reflective thinking; to uncenter the story of technology; told to us by the same figures and systems but through the vital narratives made less visible.
 
 <i>Cyborg "Cunt" Glitch</i> | A heteroglossia of three oppositional feminist-narrative resources | MFA Thesis, supervised by Prof. Nora Sternfeld, Prof. Christoph Knoth, 2021.
-
 
 Keywords:  
 Cyberspace, Internet, Body, Posthuman, Post- Transhumanism, Biotechnology, Biofeminism, (Cyber)feminism, Manifesto, Cyborg, "Cunt", Glitch. 
@@ -24,7 +23,7 @@ Cyberspace, Internet, Body, Posthuman, Post- Transhumanism, Biotechnology, Biofe
 
 <p>Some folders contain a markdown file named "Link List". This is a directory of hyperlinks that navigate to another location, usually relating to the primary folder.</p>
 
-<p>This repository is always in progress and fully accessible.</p>
+<p>This repository is always in-progress and fully accessible.</p>
 
 <h2>Credit</h2>
 <p>Facilitated by Megan Dieudonné | Contact: <a href="mailto:megan.dieudonne@gmail.com">Email</a></p>
