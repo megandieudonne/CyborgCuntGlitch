@@ -1,30 +1,30 @@
 <h1>Cyborg "Cunt" Glitch: A library and Resource</h1>
-<h2>Critical Thinking of Technology by Women, LGBTQ, and POC.</h2>
+<h2>Critical Thinking of Technology by Women, LGBTQ and POC.</h2>
 
 >"All technology reflects the society that produces it, including its power structures and prejudice. This is true all the way down to the level of the algorithm. The outmoded myth, however, that equates the digital and the radical continues to prove counterfeit." 
-<p>Legacy Russell, Glitch Feminism, 2020</p>
+Legacy Russell, Glitch Feminism, 2020
 
 >"To be in the margin is to be part of the whole but outside the main body"
-<p>Bell Hooks, FEMINIST THEORY from margin to center, 1984</p>
+Bell Hooks, FEMINIST THEORY from margin to center, 1984
  
 >"Our best machines are made of sunshine." 
-<p>Donna Haraway, A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late 20th Century, 1984</p>
+Donna Haraway, A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late 20th Century, 1985
 
 <h2>About</h2>
-<p>This is an effort to contribute to the technological facet of feminist queer theory, beside a practice of reflective thinking that uncenters the story of technology—told to us—by the same figures and systems but through the vital narratives made less visible.
+An effort to contribute to the technological facet of feminist theory through a practice of reflective thinking that uncenters how technology is told to us; by the same figures and systems but by the narratives made less visible
 
-<i>Cyborg "Cunt" Glitch</i> | A heteroglossia of three oppositional feminist-narrative resources | MFA Thesis, supervised by Prof. Nora Sternfeld, Prof. Christoph Knoth, 2021.
+<i>Cyborg "Cunt" Glitch</i> | A Heteroglossia of Three Oppositional Feminist Narrative Techno-Resources | MFA Thesis, supervised by Prof. Nora Sternfeld, Prof. Christoph Knoth, April 2021.
 
 Keywords:  
-Cyberspace, Internet, Body, Posthuman, Post- Transhumanism, Biotechnology, Biofeminism, (Cyber)feminism, Manifesto, Cyborg, "Cunt", Glitch. 
+Cyberspace, Internet, Body, Post- Transhumanism, Biotechnology, Biofeminism, (Cyber)feminism, Manifesto, Cyborg, "Cunt", Glitch. 
 
 <h2>Care</h2>
-<p>To keep things tidy for your Downloads folder, folders are organised alphabetically by First Name, Last Name. File types are mostly: .md, .pdf, .jpg, .png and are named by Title, (Year).</p>
+To keep things tidy, folders are organised alphabetically by First Name, Last Name. File types are mostly: .md, .pdf, .jpg, .png and are named by Title, (Year).
 
-<p>Some folders contain a markdown file named "Link List". This is a directory of hyperlinks that navigate to another location, usually relating to the primary folder.</p>
+Some folders contain a markdown file named "Link List". This is a directory of hyperlinks that navigate to another location, usually relating to the primary folder.
 
-<p>This repository is always in-progress and fully accessible.</p>
+This repository is always in-progress and fully accessible.
 
 <h2>Credit</h2>
-<p>Facilitated by Megan Dieudonné | Contact: <a href="mailto:megan.dieudonne@gmail.com">Email</a></p>
-<h4>Megan Dieudonné (b. 1991) is a designer from Aotearoa, New Zealand, based in Hamburg. She works at the intersection of graphic design and digital culture. After studies in Wellington (NZ) and Leipzig, she is currently a member of the <a href="http://www.digitale-grafik.com/">Digital Graphics</a> class at the <a href="https://www.hfbk-hamburg.de/en/">University of Fine Arts Hamburg (HFBK)</a>.</h4>
+Facilitated by Megan Dieudonné | Contact: <a href="mailto:megan.dieudonne@gmail.com">Email</a>
+<h4>Megan Dieudonné (b. 1991) is a designer from Aotearoa, New Zealand, based in Hamburg. After studies in Wellington and Leipzig, she is currently a member of the <a href="http://www.digitale-grafik.com/">Digital Graphics</a> class at the <a href="https://www.hfbk-hamburg.de/en/">University of Fine Arts Hamburg (HFBK)</a>.</h4>
