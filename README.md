@@ -11,19 +11,19 @@ Bell Hooks, FEMINIST THEORY from margin to center, 1984
 Donna Haraway, A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late 20th Century, 1985
 
 <h2>About</h2>
-An effort to contribute to the technological facet of feminist theory through a practice of reflective thinking that uncenters how technology is told to us; by the same figures and systems but by the narratives made less visible
+<p>An effort to contribute to the technological facet of feminist theory through a practice of reflective thinking that uncenters how technology is told to us; by the same figures and systems but by the narratives made less visible
 
-<i>Cyborg "Cunt" Glitch</i> | A Heteroglossia of Three Oppositional Feminist Narrative Techno-Resources | MFA Thesis, supervised by Prof. Nora Sternfeld, Prof. Christoph Knoth, April 2021.
+<p><i>Cyborg "Cunt" Glitch</i> | A Heteroglossia of Three Oppositional Feminist Narrative Techno-Resources | MFA Thesis, supervised by Prof. Nora Sternfeld, Prof. Christoph Knoth, April 2021.</p>
 
 Keywords:  
-Cyberspace, Internet, Body, Post- Transhumanism, Biotechnology, Biofeminism, (Cyber)feminism, Manifesto, Cyborg, "Cunt", Glitch. 
+<p>Cyberspace, Internet, Body, Post- Transhumanism, Biotechnology, Biofeminism, (Cyber)feminism, Manifesto, Cyborg, "Cunt", Glitch.</p>
 
 <h2>Care</h2>
-To keep things tidy, folders are organised alphabetically by First Name, Last Name. File types are mostly: .md, .pdf, .jpg, .png and are named by Title, (Year).
+<p>To keep things tidy, folders are organised alphabetically by First Name, Last Name. File types are mostly: .md, .pdf, .jpg, .png and are named by Title, (Year).</p>
 
-Some folders contain a markdown file named "Link List". This is a directory of hyperlinks that navigate to another location, usually relating to the primary folder.
+<p>Some folders contain a markdown file named "Link List". This is a directory of hyperlinks that navigate to another location, usually relating to the primary folder.</p>
 
-This repository is always in-progress and fully accessible.
+<p>This repository is always in-progress and fully accessible.</p>
 
 <h2>Credit</h2>
 Facilitated by Megan Dieudonné | Contact: <a href="mailto:megan.dieudonne@gmail.com">Email</a>
