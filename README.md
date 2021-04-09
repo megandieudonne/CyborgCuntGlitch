@@ -13,7 +13,7 @@ Donna Haraway, A Cyborg Manifesto: Science, Technology, and Socialist-Feminism i
 <h2>About</h2>
 <p>An effort to uncenter how technology is told to us [by the same figures and systems] but through those made less visible.</p>
 
-<p>A lirbary of <i>Cyborg Cunt Glitch</i> | A Heteroglossia of Three Oppositional Feminist Narrative Techno-Resources | MFA Thesis, supervised by Dr. Nora Sternfeld, Prof. Christoph Knoth, April 2021.</p>
+<p>Notes of <i>Cyborg Cunt Glitch</i> | A Heteroglossia of Three Oppositional Feminist Narrative Techno-Resources | MFA Thesis, supervised by Dr. Nora Sternfeld, Prof. Christoph Knoth, April 2021.</p>
 
 Keywords:  
 Cyberspace, Internet, Body, Post- Transhumanism, Biotechnology, Biofeminism, (Cyber)feminism, Manifesto, Cyborg, "Cunt", Glitch.</p>
