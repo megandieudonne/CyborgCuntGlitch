@@ -1,4 +1,4 @@
-<h1>Cyborg "Cunt" Glitch: A Library and Resource</h1>
+<h1>Cyborg Cunt Glitch: A Library and Resource</h1>
 <h2>Critical Thinking of Technology by Women, LGBTQ and POC.</h2>
 
 >"All technology reflects the society that produces it, including its power structures and prejudice. This is true all the way down to the level of the algorithm. The outmoded myth, however, that equates the digital and the radical continues to prove counterfeit." 
@@ -13,7 +13,7 @@ Donna Haraway, A Cyborg Manifesto: Science, Technology, and Socialist-Feminism i
 <h2>About</h2>
 <p>An effort to contribute to the technological facet of feminist theory through a practice of reflective thinking that uncenters how technology is told to us; by the same figures and systems but through the narratives made less visible.
 
-<p><i>Cyborg "Cunt" Glitch</i> | A Heteroglossia of Three Oppositional Feminist Narrative Techno-Resources | MFA Thesis, supervised by Dr. Nora Sternfeld, Prof. Christoph Knoth, April 2021.</p>
+<p><i>Cyborg Cunt Glitch</i> | A Heteroglossia of Three Oppositional Feminist Narrative Techno-Resources | MFA Thesis, supervised by Dr. Nora Sternfeld, Prof. Christoph Knoth, April 2021.</p>
 
 Keywords:  
 Cyberspace, Internet, Body, Post- Transhumanism, Biotechnology, Biofeminism, (Cyber)feminism, Manifesto, Cyborg, "Cunt", Glitch.</p>
