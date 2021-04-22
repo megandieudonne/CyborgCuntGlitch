@@ -1,5 +1,5 @@
-<h1>Cyborg Cunt Glitch: A Library and Resource</h1>
-<h2>Critical Thinking of Technology by Women, LGBTQ and POC.</h2>
+<h1>CYBORGCUNTGLITCH: A Library and Resource</h1>
+<h2>Critical Thinking of Technology by Women, LGBTQA and POC.</h2>
 
 >"All technology reflects the society that produces it, including its power structures and prejudice. This is true all the way down to the level of the algorithm. The outmoded myth, however, that equates the digital and the radical continues to prove counterfeit." 
 Legacy Russell, Glitch Feminism, 2020
@@ -11,10 +11,10 @@ Bell Hooks, FEMINIST THEORY from margin to center, 1984
 Donna Haraway, A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late 20th Century, 1985
 
 <h2>About</h2>
-Notes of <i>Cyborg Cunt Glitch</i> A Heteroglossia of Three Oppositional Feminist Narrative Techno-Resources. MFA Thesis supervised by Dr. Nora Sternfeld, Prof. Christoph Knoth, April 2021.</p>
+Notes of <i>CYBORGCUNTGLITCH</i> A Heteroglossia of Three Oppositional Feminist Narrative Techno-Resources. MFA Thesis supervised by Dr. Nora Sternfeld, Prof. Christoph Knoth, written during the Winter Semester 2020/21. University of Fine Arts Hamburg, (HFBK Hamburg)</p>
 
 Keywords:  
-Cyberspace, Internet, Body, Post- Transhumanism, Biotechnology, Biofeminism, (Cyber)feminism, Manifesto, Cyborg, "Cunt", Glitch.</p>
+Cyberspace, Internet, Body, Post- Transhumanism, Cyberfeminism, Manifesto, Cyborg, Cunt, Glitch.</p>
 
 <h2>Care</h2>
 <p>To keep things tidy, folders are organised alphabetically by First Name, Last Name. File types are mostly: .md, .pdf, .jpg, .png and are named by Title, (Year).</p>
@@ -25,4 +25,4 @@ Cyberspace, Internet, Body, Post- Transhumanism, Biotechnology, Biofeminism, (Cy
 
 <h2>Credit</h2>
 Facilitated by Megan Dieudonné | Contact: <a href="mailto:megan.dieudonne@gmail.com">Email</a>
-<h4>Megan Dieudonné (b. 1991) is a designer from Aotearoa, New Zealand, based in Hamburg. After studies in Wellington and Leipzig, she is currently a member of the <a href="http://www.digitale-grafik.com/">Digital Graphics</a> class at the <a href="https://www.hfbk-hamburg.de/en/">University of Fine Arts Hamburg (HFBK)</a>.</h4>
+<h4>Megan Dieudonné (b. 1991) is a designer from Aotearoa, New Zealand, based in Hamburg. After studies in Wellington and Leipzig, she is currently a member of the <a href="http://www.digitale-grafik.com/">Digital Graphics</a> class at the <a href="https://www.hfbk-hamburg.de/en/">University of Fine Arts Hamburg (HFBK Hamburg)</a>.</h4>
