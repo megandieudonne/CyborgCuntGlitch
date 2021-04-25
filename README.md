@@ -2,13 +2,13 @@
 <h2>Critical Thinking of Technology by Women, LGBTQA and POC.</h2>
 
 >"All technology reflects the society that produces it, including its power structures and prejudice. This is true all the way down to the level of the algorithm. The outmoded myth, however, that equates the digital and the radical continues to prove counterfeit." 
-Legacy Russell, Glitch Feminism, 2020
+<p>Legacy Russell, Glitch Feminism, 2020</p>
 
 >"To be in the margin is to be part of the whole but outside the main body"
-Bell Hooks, FEMINIST THEORY from margin to center, 1984
+<p>Bell Hooks, FEMINIST THEORY from margin to center, 1984</p>
  
 >"Our best machines are made of sunshine." 
-Donna Haraway, A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late 20th Century, 1985
+<p>Donna Haraway, A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late 20th Century, 1985</p>
 
 <h2>About</h2>
 Notes of <i>CYBORGCUNTGLITCH</i> A Heteroglossia of Three Oppositional Feminist Narrative Techno-Resources. Master Thesis supervised by Dr. Nora Sternfeld, Prof. Christoph Knoth, written during the Winter Semester 2020/21. University of Fine Arts Hamburg, HFBK Hamburg</p>
