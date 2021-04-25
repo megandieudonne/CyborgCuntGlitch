@@ -17,9 +17,7 @@ Keywords:
 Cyberspace, Internet, Body, Post- Transhumanism, Cyberfeminism, Manifesto, Cyborg, Cunt, Glitch.</p>
 
 <h2>Care</h2>
-<p>To keep things tidy, folders are organised alphabetically by First Name, Last Name. File types are mostly: .md, .pdf, .jpg, .png and are named by Title, (Year).</p>
-
-<p>Some folders contain a markdown file named "Link List". This is a directory of hyperlinks that navigate to another location, usually relating to the primary folder.</p>
+<p>To keep things tidy, folders are organised alphabetically by First Name, Last Name. File types are mostly: .md, .pdf, .jpg, .png and are named by Title, then (Year). Some folders contain a markdown file named "Link List". This is a directory of hyperlinks that navigate to another location, usually relating to the primary folder.</p>
 
 <p>This repository is always in-progress and fully accessible.</p>
 
