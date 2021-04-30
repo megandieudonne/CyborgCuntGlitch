@@ -17,10 +17,10 @@ Keywords:
 Cyberspace, Internet, Body, Post- Transhumanism, Cyberfeminism, Manifesto, Cyborg, Cunt, Glitch.</p>
 
 <h2>Care</h2>
-<p>Folders are organised alphabetically by First Name, Last Name. File types are mostly: .md, .pdf, .jpg, .png and are named by Title, then (Year). Some folders contain a markdown file named "Link List". This is a directory of hyperlinks that navigate to another location, usually relating to the primary folder.</p>
+<p>Folders are organised alphabetically by First Name, Last Name and file types are mostly: .md, .pdf, .jpg, .png and are named by Title, then (Year). Some folders contain a markdown file named "Link List". This is a directory of hyperlinks that navigate to another location, usually relating to the primary folder.</p>
 
 <p>This repository is always in-progress and fully accessible.</p>
 
 <h2>Credit</h2>
 Facilitated by Megan Dieudonné | Contact: <a href="mailto:megan.dieudonne@gmail.com">Email</a>
-<h4>Megan Dieudonné (b. 1991) is a designer from Aotearoa, New Zealand, based in Hamburg. After studies in Wellington and Leipzig, she is currently a member of the <a href="http://www.digitale-grafik.com/">Digital Graphics</a> class at the <a href="https://www.hfbk-hamburg.de/en/">University of Fine Arts Hamburg (HFBK Hamburg)</a>.</h4>
+<h4>Megan Dieudonné is a designer from Aotearoa, New Zealand, based in Hamburg. After studies in Wellington and Leipzig, she is currently a student of <a href="http://www.digitale-grafik.com/">Digital Graphics</a> class at the <a href="https://www.hfbk-hamburg.de/en/">HFBK University of Fine Arts Hamburg</a>.</h4>
