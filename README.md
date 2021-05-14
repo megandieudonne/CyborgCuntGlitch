@@ -12,7 +12,7 @@
 <h2>About</h2>
 Research, inspiration and findings behind <i>CYBORG CUNT GLITCH</i> | A Heteroglossia of Three Oppositional Feminist Narrative Techno-Resources. Master Thesis, University of Fine Arts Hamburg, HFBK Hamburg, Winter Semester 2020/21. Supervised by Christoph Knoth, Nora Sternfeld.</p>
 
-Click <a href="https://cyborgcuntglitch.megandieudonne.com/">here</a> to read <i>CYBORG CUNT GLITCH</i>.
+<a href="https://cyborgcuntglitch.megandieudonne.com/">Read CYBORG CUNT GLITCH</a>
 
 Keywords:  
 Cyberspace, Internet, Body, Post- Transhumanism, Cyberfeminism, Manifesto, Cyborg, Cunt, Glitch.</p>
