@@ -1,4 +1,4 @@
-<h1>CYBORG CUNT GLITCH: A Library and Resource</h1>
+<h1>CYBORG CUNT GLITCH: Research and Inspiration</h1>
 
 >"All technology reflects the society that produces it, including its power structures and prejudice. This is true all the way down to the level of the algorithm. The outmoded myth, however, that equates the digital and the radical continues to prove counterfeit." 
 <p>Legacy Russell, Glitch Feminism, 2020.</p>
@@ -10,7 +10,7 @@
 <p>Donna Haraway, A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late 20th Century, 1985.</p>
 
 <h2>About</h2>
-Notes of <a href="https://cyborgcuntglitch.megandieudonne.com/">CYBORG CUNT GLITCH</a>. A Heteroglossia of Three Oppositional Feminist Narrative Techno-Resources. Master Thesis, University of Fine Arts Hamburg, HFBK Hamburg, Winter Semester 2020/21. Supervised by Christoph Knoth, Nora Sternfeld.</p>
+Notes of <a href="https://cyborgcuntglitch.megandieudonne.com/">CYBORG CUNT GLITCH</a>, A Heteroglossia of Three Oppositional Feminist Narrative Techno-Resources. Master Thesis, University of Fine Arts Hamburg, HFBK Hamburg, Winter Semester 2020/21. Supervised by Christoph Knoth, Nora Sternfeld.</p>
 
 Keywords:  
 Cyberspace, Internet, Body, Post- Transhumanism, Cyberfeminism, Manifesto, Cyborg, Cunt, Glitch.</p>
