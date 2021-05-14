@@ -10,7 +10,9 @@
 <p>Donna Haraway, A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late 20th Century, 1985.</p>
 
 <h2>About</h2>
-Research, inspiration and findings behind <a href="https://cyborgcuntglitch.megandieudonne.com/">CYBORG CUNT GLITCH</a> | A Heteroglossia of Three Oppositional Feminist Narrative Techno-Resources. Master Thesis, University of Fine Arts Hamburg, HFBK Hamburg, Winter Semester 2020/21. Supervised by Christoph Knoth, Nora Sternfeld.</p>
+Research, inspiration and findings behind <i>CYBORG CUNT GLITCH</i> | A Heteroglossia of Three Oppositional Feminist Narrative Techno-Resources. Master Thesis, University of Fine Arts Hamburg, HFBK Hamburg, Winter Semester 2020/21. Supervised by Christoph Knoth, Nora Sternfeld.</p>
+
+Read <i>CYBORG CUNT GLITCH</i> <a href="https://cyborgcuntglitch.megandieudonne.com/">here</a>
 
 Keywords:  
 Cyberspace, Internet, Body, Post- Transhumanism, Cyberfeminism, Manifesto, Cyborg, Cunt, Glitch.</p>
