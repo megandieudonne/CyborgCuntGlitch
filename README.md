@@ -8,7 +8,7 @@
 <p>Donna Haraway, A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late 20th Century, 1985.</p>
 
 <h2>About</h2>
-Ongoing research and notes of <i>CYBORG CUNT GLITCH</i> | A Heteroglossia of Three Oppositional Feminist Narrative Techno-Resources. Master Thesis, University of Fine Arts Hamburg, HFBK Hamburg, Winter Semester 2020/21.</p>
+Ongoing research and notes of <i>CYBORG CUNT GLITCH</i>, Master Thesis, University of Fine Arts Hamburg, HFBK Hamburg, Winter Semester 2020/21.</p>
 
 <a href="https://cyborgcuntglitch.megandieudonne.com/">Read CYBORG CUNT GLITCH</a>
 
