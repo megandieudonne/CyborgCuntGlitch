@@ -20,4 +20,4 @@ Cyberspace, Internet, Body, Post- Transhumanism, Cyberfeminism, Manifesto, Cybor
 
 <h2>Credit</h2>
 Facilitated by Megan Dieudonné | Contact: <a href="mailto:megan.dieudonne@gmail.com">Email</a>
-<h4>Megan Dieudonné is a designer based in Hamburg, Germany. After studies in Wellington and Leipzig, she is currently a student of <a href="http://www.digitale-grafik.com/">Klasse Digitale Grafik</a> at the <a href="https://www.hfbk-hamburg.de/en/">HFBK University of Fine Arts Hamburg</a>.</h4>
+<h4>Megan Dieudonné is a designer and researcher based in Aotearoa New Zealand. Megan studied at the College of Creative Arts in Pōneke Wellington, visited the Systemdesign class at Academy of Fine Arts HGB Leipzig, and joined the <a href="http://www.digitale-grafik.com/">Digital Graphics</a> class at the <a href="https://www.hfbk-hamburg.de/en/">University of Fine Arts Hamburg HFBK</a>, where she recetly completed a Master of Fine Arts.</h4>
